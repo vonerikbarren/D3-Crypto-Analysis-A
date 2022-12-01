@@ -4,7 +4,7 @@
 https://vonerikbarren.github.io/D3-Crypto-Analysis-A/
 
 ### Section 1 - Overview 
-- This is a website that focuses on a using D3 to demonstrate crypto-currencies over a period of time. 
+- This is a website that focuses on a using D3 to demonstrate crypto-currencies over a period of time. Includes three other analyses with a total of four different projects in one. Additionally slider updates state of chart both when adding data and removing data. 
 
 
 ### Section 2 - Key Features
